@@ -2,39 +2,45 @@
 
 
 
-# [Project Name] 🎯
+# WATCH TIME READER🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: SEKIRO
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: Adithyan A - College of Engineering Kallooppara
+- Member 2: Nikhil Mathew - College of Engineering Kallooppara
 
 ### Project Description
-[2-3 lines about what your project does]
+ChronoSense is an over-engineered optical digitizer that allows users to photograph an analog wristwatch, routes the image through simulated computer vision pipelines to compute the time, and then violently roasts them on a full-screen display for not simply glancing at their wrist.
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+For centuries, humans have suffered the unbearable cognitive strain of having to interpret rotating mechanical sticks on a small dial. Glancing downward at one's wrist requires up to 0.15 seconds of biological effort and basic spatial geometry—an archaic, exhausting ritual that modern society has inexplicably failed to automate.
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Instead of looking at your arm, you take out an expensive smartphone (which already shows the exact digital time), photograph your analog watch, upload the multi-megabyte image to a local computer, wait through four seconds of faux-neural trigonometric laser scanning, and receive a giant comic-style readout accompanied by synthetic text-to-speech shouting: "JUST LOOK AT YOUR WRIST!"
 
-## Technical Details
-### Technologies/Components Used
-For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+# Technical Details
+# Technologies/Components Used
+# For Software:
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Languages used: Python 3.10+, JavaScript (ES6+), HTML5, CSS3
+
+Frameworks used: Python Built-in ThreadingHTTPServer / SimpleHTTPRequestHandler
+
+Libraries used: Web Speech API (window.speechSynthesis), HTML5 Canvas API (Client-side downscaling & compression), Web Storage API (localStorage), Google GenAI Vision API (Gemini multimodal endpoint)
+
+Tools used: Visual Studio Code, VS Code Live Server, Git, PowerShell / Bash terminal
+
+# For Hardware:
+
+List main components: Modern Smartphone (Camera source) and Laptop / PC (Host server & display)
+
+List specifications: Minimum 4 GB RAM, Web camera / smartphone camera with minimum 1080p capture capability, modern Chromium/WebKit-based web browser
+
+List tools required: Wi-Fi Local Area Network router or mobile Wi-Fi hotspot for local client-server pairing]
 
 ### Implementation
 For Software:
