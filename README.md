@@ -45,10 +45,21 @@ List tools required: Wi-Fi Local Area Network router or mobile Wi-Fi hotspot for
 ### Implementation
 For Software:
 # Installation
-[commands]
+# Clone the repository
+git clone https://github.com/your-username/chronosense-neural-dial.git
+
+# Navigate into the project folder
+cd chronosense-neural-dial
 
 # Run
-[commands]
+# Option 1: Using Python's built-in local server (Zero external dependencies)
+python -m http.server 8000
+
+# Option 2: Using Node.js
+npx serve .
+
+# Open your browser and navigate to:
+# http://localhost:8000
 
 ### Project Documentation
 For Software:
