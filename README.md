@@ -2,7 +2,7 @@
 
 
 
-# WATCH TIME READER🎯
+# ChronoSense🎯
 
 
 ## Basic Details
@@ -53,35 +53,64 @@ For Software:
 ### Project Documentation
 For Software:
 
-# Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+# Screenshots 
+Screenshot 1
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/b5c4280a-b409-401e-b9ba-e2b2e1b0298b" />
+The ChronoSense main portal—a clean, enterprise-grade dark dashboard presenting the drag-and-drop optical upload zone and mock neural system notes.
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 2
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3f6a46d4-d981-4618-a6e8-7c545a3e4c2a" />
+The pre-flight inspection panel showing client-side telemetry toggles, voice feedback controls, and the disabled recovery trigger awaiting image input.
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
+Screenshot 3
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/3e5f6409-1369-4183-bdd4-b228120f5018" />
+Watch image successfully ingested and downscaled via HTML5 Canvas, unlocking the primary "Initiate Optical Time Recovery" trigger.
+
+Screenshot 4
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/31311cda-d9eb-4bb1-990f-1c20d42ad3b0" />
+The deceptive triumph stage—rendering the recovered digital time in oversized comic font with an absurd "99.8% Neural Confidence" metric.
+
+Screenshot 5
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/aa34a7d5-3ad5-490a-a4cf-596a7b02c2b3" />
+The final punchline sequence—stamping "OR JUST LOOK AT IT" over the screen, shouting "JUST LOOK AT YOUR WRIST!", and computing a 99.9% effort waste metric
 
 # Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
+[User Device / Phone]
+           │
+           │ 1. Uploads High-Res Analog Watch Photo
+           ▼
+  [Client-Side HTML5 Canvas]
+           │
+           │ 2. Downscales image to max 1200px (Prevents browser lag)
+           ▼
+  [Stage 1: Neural Inspection HUD]
+           │
+           │ 3. Sweeping laser animation + 3 fake debug telemetry logs (2.5s)
+           ▼
+  [Stage 2: Faux Triumph Readout]
+           │
+           │ 4. Displays real local digital time in bold font (350ms bait)
+           ▼
+  [Stage 3: The Comic Roast Switch]
+           ├──> 5a. Screen glitch animation shakes overlay
+           ├──> 5b. Typewriter engine pops comic text: "JUST LOOK AT YOUR WRIST!"
+           ├──> 5c. Web Speech API triggers deadpan voice roast aloud
+           └──> 5d. Saves scan latency & wasted seconds to localStorage
 
 For Hardware:
 
 # Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
+N/A (Pure Software Application — No custom circuits or physical microcontrollers required).
+
 
 ![Schematic](Add your schematic diagram here)
 *Add caption explaining the schematic*
 
 # Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
+N/A (Pure Software Application — No custom circuits or physical microcontrollers required).
 
-![Build](Add photos of build process here)
-*Explain the build steps*
+Build Photos
+N/A (Pure Software Application — Developed entirely within VS Code).
 
 ![Final](Add photo of final product here)
 *Explain the final build*
@@ -95,9 +124,9 @@ For Hardware:
 [Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+Nikhil Mathew: Core web architecture, stage animation choreography (inspection → triumph → roast), offscreen <canvas> downscaling logic, and window.speechSynthesis voice roast implementation.
+
+Adithyan A: Responsive CSS layout, typography scaling (fitPunchline logic), and local storage history engine , UI copy, comedic punchline creation, sample watch test dataset curation, and documentation.
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
