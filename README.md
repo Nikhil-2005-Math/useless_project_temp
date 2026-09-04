@@ -59,7 +59,7 @@ python -m http.server 8000
 npx serve .
 
 # Open your browser and navigate to:
-# [# http://localhost:8000](https://useless-project-temp-azure.vercel.app/)
+# (https://useless-project-temp-azure.vercel.app/)
 
 ### Project Documentation
 For Software:
