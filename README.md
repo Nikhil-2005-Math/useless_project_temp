@@ -59,7 +59,7 @@ python -m http.server 8000
 npx serve .
 
 # Open your browser and navigate to:
-# http://localhost:8000
+# [# http://localhost:8000](https://useless-project-temp-azure.vercel.app/)
 
 ### Project Documentation
 For Software:
@@ -125,7 +125,7 @@ N/A (Pure Software Application — Developed entirely within VS Code).
 
 ### Project Demo
 # Video
-[(https://drive.google.com/file/d/15LijM1hgrmwALVDtVLxC9jCy0nv2gaWr/view?usp=drivesdk)](https://drive.google.com/drive/folders/1IePAWfOLMPDagw46_Ca5JYJP_wjfd7ex?usp=sharing)
+(https://drive.google.com/drive/folders/1IePAWfOLMPDagw46_Ca5JYJP_wjfd7ex?usp=sharing)
 This video demonstrates the complete user journey of ChronoSense: starting from the temporal lock screen to the optical recovery workspace, selecting and locally downscaling a high-resolution luxury analog watch photo, running the simulated radial computer-vision laser sweep, transitioning through the fleeting digital time reveal, and hitting the user with the satirical comic roast ("USE YOUR EYES, NOT AN AI!") alongside the 99.9% wasted-effort telemetry and automated scan archive logging.
 
 ## Team Contributions
