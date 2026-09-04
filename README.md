@@ -123,16 +123,10 @@ N/A (Pure Software Application — No custom circuits or physical microcontrolle
 Build Photos
 N/A (Pure Software Application — Developed entirely within VS Code).
 
-![Final](Add photo of final product here)
-*Explain the final build*
-
 ### Project Demo
 # Video
-(https://drive.google.com/file/d/15LijM1hgrmwALVDtVLxC9jCy0nv2gaWr/view?usp=drivesdk)
+[(https://drive.google.com/file/d/15LijM1hgrmwALVDtVLxC9jCy0nv2gaWr/view?usp=drivesdk)](https://drive.google.com/drive/folders/1IePAWfOLMPDagw46_Ca5JYJP_wjfd7ex?usp=sharing)
 This video demonstrates the complete user journey of ChronoSense: starting from the temporal lock screen to the optical recovery workspace, selecting and locally downscaling a high-resolution luxury analog watch photo, running the simulated radial computer-vision laser sweep, transitioning through the fleeting digital time reveal, and hitting the user with the satirical comic roast ("USE YOUR EYES, NOT AN AI!") alongside the 99.9% wasted-effort telemetry and automated scan archive logging.
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
 Nikhil Mathew: Core web architecture, stage animation choreography (inspection → triumph → roast), offscreen <canvas> downscaling logic, and window.speechSynthesis voice roast implementation.
